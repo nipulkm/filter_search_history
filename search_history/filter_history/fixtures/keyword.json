@@ -1,0 +1,30 @@
+[
+	{
+		"model": "filter_history.keyword",
+		"pk": 1,
+		"fields": {
+			"word": "food picture"
+		}
+	},
+	{
+		"model": "filter_history.keyword",
+		"pk": 2,
+		"fields": {
+			"word": "color code"
+		}
+	},
+	{
+		"model": "filter_history.keyword",
+		"pk": 3,
+		"fields": {
+			"word": "python"
+		}
+	},
+	{
+		"model": "filter_history.keyword",
+		"pk": 4,
+		"fields": {
+			"word": "django documentation"
+		}
+	}
+]

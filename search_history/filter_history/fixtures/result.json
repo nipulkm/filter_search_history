@@ -1,0 +1,74 @@
+[
+	{
+		"model": "filter_history.result",
+		"pk": 1,
+		"fields": {
+			"search_result": "https://unsplash.com/images/food",
+            "keyword": 1
+		}
+	},
+	{
+		"model": "filter_history.result",
+		"pk": 2,
+		"fields": {
+			"search_result": "https://www.pexels.com/search/food/",
+            "keyword": 1
+		}
+	},
+	{
+		"model": "filter_history.result",
+		"pk": 3,
+		"fields": {
+			"search_result": "https://pixabay.com/images/search/food/",
+            "keyword": 1
+		}
+	},
+	{
+		"model": "filter_history.result",
+		"pk": 4,
+		"fields": {
+			"search_result": "https://www.computerhope.com/htmcolor.htm",
+            "keyword": 2
+		}
+	},
+	{
+		"model": "filter_history.result",
+		"pk": 5,
+		"fields": {
+			"search_result": "https://htmlcolorcodes.com/",
+            "keyword": 2
+		}
+	},
+	{
+		"model": "filter_history.result",
+		"pk": 6,
+		"fields": {
+			"search_result": "https://www.python.org/",
+            "keyword": 3
+		}
+	},
+	{
+		"model": "filter_history.result",
+		"pk": 7,
+		"fields": {
+			"search_result": "https://www.w3schools.com/python/",
+            "keyword": 3
+		}
+	},
+	{
+		"model": "filter_history.result",
+		"pk": 8,
+		"fields": {
+			"search_result": "https://docs.djangoproject.com/en/4.0/",
+            "keyword": 4
+		}
+	},
+	{
+		"model": "filter_history.result",
+		"pk": 9,
+		"fields": {
+			"search_result": "https://django.readthedocs.io/en/stable/contents.html",
+            "keyword": 4
+		}
+	}
+]

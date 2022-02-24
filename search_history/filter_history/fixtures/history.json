@@ -1,0 +1,62 @@
+[
+	{
+		"model": "filter_history.history",
+		"pk": 1,
+		"fields": {
+			"time": "2:50",
+            "date": "2022-02-10",
+            "user": 1,
+            "keyword": 1
+		}
+	},
+	{
+		"model": "filter_history.history",
+		"pk": 2,
+		"fields": {
+			"time": "2:50",
+            "date": "2022-02-12",
+            "user": 2,
+            "keyword": 1
+		}
+	},
+	{
+		"model": "filter_history.history",
+		"pk": 3,
+		"fields": {
+			"time": "2:50",
+            "date": "2022-02-14",
+            "user": 2,
+            "keyword": 2
+		}
+	},
+	{
+		"model": "filter_history.history",
+		"pk": 4,
+		"fields": {
+			"time": "2:50",
+            "date": "2022-02-16",
+            "user": 3,
+            "keyword": 3
+		}
+	},
+	{
+		"model": "filter_history.history",
+		"pk": 5,
+		"fields": {
+			"time": "2:50",
+            "date": "2022-02-18",
+            "user": 4,
+            "keyword": 3
+		}
+	},
+	{
+		"model": "filter_history.history",
+		"pk": 6,
+		"fields": {
+			"time": "2:50",
+            "date": "2022-02-20",
+            "user": 4,
+            "keyword": 4
+		}
+	}
+]
