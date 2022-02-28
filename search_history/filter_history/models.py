@@ -5,6 +5,7 @@ class User(models.Model):
 
 class Keyword(models.Model):
     word = models.CharField(max_length=255, unique=True)
+    count = models.IntegerField()
 
 class Result(models.Model):
     search_result = models.CharField(max_length=255, unique=True)

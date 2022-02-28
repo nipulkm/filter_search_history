@@ -3,28 +3,32 @@
 		"model": "filter_history.keyword",
 		"pk": 1,
 		"fields": {
-			"word": "food picture"
+			"word": "food picture",
+			"count": 2
 		}
 	},
 	{
 		"model": "filter_history.keyword",
 		"pk": 2,
 		"fields": {
-			"word": "color code"
+			"word": "color code",
+			"count": 1
 		}
 	},
 	{
 		"model": "filter_history.keyword",
 		"pk": 3,
 		"fields": {
-			"word": "python"
+			"word": "python",
+			"count": 2
 		}
 	},
 	{
 		"model": "filter_history.keyword",
 		"pk": 4,
 		"fields": {
-			"word": "django documentation"
+			"word": "django documentation",
+			"count": 1
 		}
 	}
 ]
